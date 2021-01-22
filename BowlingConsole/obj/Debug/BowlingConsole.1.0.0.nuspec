@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>BowlingConsole</id>
+    <version>1.0.0</version>
+    <authors>BowlingConsole</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\WORKSPACE\SYSTEM_APP_DEVELOPMENT\assignments\BowlingGame\BowlingConsole\bin\Debug\netcoreapp3.1\BowlingConsole.runtimeconfig.json" target="lib\netcoreapp3.1\BowlingConsole.runtimeconfig.json" />
+    <file src="C:\WORKSPACE\SYSTEM_APP_DEVELOPMENT\assignments\BowlingGame\BowlingConsole\bin\Debug\netcoreapp3.1\BowlingConsole.dll" target="lib\netcoreapp3.1\BowlingConsole.dll" />
+  </files>
+</package>
